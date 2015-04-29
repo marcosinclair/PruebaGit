@@ -18,6 +18,10 @@ public class Jorge {
         this.nombre = nombre;
     }
     
+    /**
+     * Devuelve el nombre.
+     * @return String nombre.
+     */
     public String getNombre(){
         return this.nombre;
     }
